@@ -13,7 +13,18 @@ This feature helps to perform tasks like sorting, comparing and analyzing, very 
 Power BI is also compatible with multiple sources, including Excel, SQL Server, and cloud-based data repositories which makes it an excellent choice for Data Scientists.
 
 ### Features of Cryptocurrency Dashboard:
-- Real time data visualization and analytics of most famous cryptocurrencies
+- Real time data visualization and analytics of most famous cryptocurrencies like:
+    1. Bitcoin
+    2. Ethereum
+    3. Tether
+    4. BNB
+    5. Solana
+    6. XRP
+    7. USD Coin
+    8. Terra
+    9. Avalanche
+    10. Dogecoin
+    
 - Future forecasting of market trends
 
 ### To run this in your system:
