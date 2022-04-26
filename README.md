@@ -1,6 +1,9 @@
 # Cryptocurrency Forecasting Using PowerBI Dashboard
 
 ![Snapshot](https://github.com/Ritesh055/Cryptocurrency-Forecasting-Using-PowerBi-Dashboard/blob/main/Page1.png)
+![Snapshot](https://github.com/Ritesh055/Cryptocurrency-Forecasting-Using-PowerBi-Dashboard/blob/main/SS.png)
+
+
 #### Contributor(s): Ritesh Kumar, Yash Sethia, Shubham
 
 ----------
